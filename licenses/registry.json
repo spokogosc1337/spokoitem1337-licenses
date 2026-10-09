@@ -4,6 +4,46 @@
     {
       "sha256": "7f047f9bb5b6f53cc27e6e107fc3f868e68dca3560bfa5584eda021a29cd3fdf",
       "enabled": true
+    },
+    {
+      "sha256": "cd23cfa342a5013b19dfa00a9fc9412e38174727248bb20ea35841c0098fd466",
+      "enabled": true
+    },
+    {
+      "sha256": "61d4950915984c2a3e81f5ced0caf06e5bc10b8d0cd0d0097ee5d6a8d08e0e57",
+      "enabled": true
+    },
+    {
+      "sha256": "152585ed2667db8627e527660007055f5da53fe9953d8f45ba8e7d084b8b30fa",
+      "enabled": true
+    },
+    {
+      "sha256": "defe797676b78e6caab044c63d26447ebfde6074b507a8f15ec9b70c3fc504c7",
+      "enabled": true
+    },
+    {
+      "sha256": "bd8ab1971b4170e3293dcde59dd1c8c389407b2f91ae506e2a5734198cbc5d27",
+      "enabled": true
+    },
+    {
+      "sha256": "60349ab391a65c0f2c67145e1b22993af4bb16d1b72dcb1ef853e646dd2a80e7",
+      "enabled": true
+    },
+    {
+      "sha256": "da6034972a88dd00dc7b65649938684922420022485dbf5bbceb5178adde14c0",
+      "enabled": true
+    },
+    {
+      "sha256": "8e5d1f0bf8b1b77e4953978446257880e05055f2f9a7b6cfc234fafcefb81e3c",
+      "enabled": true
+    },
+    {
+      "sha256": "f82324ce25f733ce3d630244acc02582f1f7dcc5d726c6d59036523b93b4a29a",
+      "enabled": true
+    },
+    {
+      "sha256": "8d14e8b01ba39e32cc032d5dad3041eea02d8fed65ed42ac622bef98d7a8c2cd",
+      "enabled": true
     }
   ]
 }
